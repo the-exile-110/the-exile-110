@@ -17,7 +17,7 @@
 
 📊 &nbsp;**This week I spent my time on**
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=the-exile-110)](https://github.com/the-exile-110/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theexile110)](https://github.com/the-exile-110/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-exile-110&count_private=true&show_icons=true&theme=dracula)
 
