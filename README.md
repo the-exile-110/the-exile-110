@@ -2,7 +2,7 @@
 
 - 🔭  I'm currently working on some Serverless, back-end, AWS cloud architecture development 😉
 - 🌱  I’m currently learning Rust
-- 💬  Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
+- 💬  Ask me about anything related to Javascript/Typescript/Python/React/Golang
 - 📫  My personal ![blog site](https://www.serverlessgo.dev/)
 - 👨‍💻  Read more about my projects at https://www.serverlessgo.dev/projects
 
