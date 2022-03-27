@@ -17,10 +17,6 @@
 
 📊 &nbsp;**This week I spent my time on**
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theexile110&v=2)](https://github.com/the-exile-110/the-exile-110)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=the-exile-110&count_private=true&show_icons=true&theme=dracula)
